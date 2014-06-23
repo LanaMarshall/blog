@@ -1,0 +1,114 @@
+* {   
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+body {
+	background-color: #DBFFE8;
+}
+
+#body {
+	width: 900px;
+	margin: 20px auto;
+}
+
+#header {
+	display: block;
+	width: 900px;
+	margin: 20px auto;
+	padding:10px;
+	background-color: ;
+}
+
+.blogPreview {
+	height: 280px;
+	width: 30%;
+	padding: 5px 20px 20px 20px;
+	margin: 30px 10px 30px 10px;
+	background-color: white;
+	display: inline-block;
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+	vertical-align: top;
+	box-shadow: 4px 4px 0px #999999;
+}
+
+.blogPost {
+	height: auto;
+	width: 900px;
+	padding: 5px 20px 20px 20px;
+	margin: 30px 10px 30px 10px;
+	background-color: white;
+	display: inline-block;
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+	vertical-align: top;
+	box-shadow: 4px 4px 0px #999999;
+}
+
+.snippet {
+	height:inherit;
+	border: 0px solid;
+}
+
+.readMore {
+	height: auto;
+	width: 100px;
+	background-color: #444444;
+	color: white;
+	margin: 25px 0px 0px auto;
+	padding: 10px;
+	display: block;
+	text-align: center;
+	font-family: "Lato", sans-serif;
+	font-weight: 700;
+	vertical-align: baseline;
+
+}
+
+.menuButton {
+	height: 50px;
+	width: auto;
+	color: #777777;
+	margin: 25px 10px;
+	padding: 10px;
+	display: inline-block;
+	text-align: center;
+	font-family: "Josefin Slab", sans-serif;
+	font-weight: 500;
+	vertical-align: baseline;
+	text-transform: capitalize;
+	float: right;
+
+
+}
+
+.headshot {
+	width: 600px;
+	margin: 20px auto;
+}
+
+a {
+	text-decoration: none;
+	color:#14BA78;
+}
+
+h1 {
+	font-family: sans-serif;
+	color: #777777;
+	display: inline-block;
+	font-family: "Josefin Slab", sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: "Josefin Slab", sans-serif;
+	font-weight: 700;
+	font-size: 22px;
+	text-transform: uppercase;
+	color:#777777;
+}
+
+
